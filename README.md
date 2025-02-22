@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4aae559b-1c22-4ced-a8d9-18ef775ba53d)- 👋 Hi, I’m @Hungthang
+- 👋 Hi, I’m @Hungthang
 - 👀 I’m interested in Data Scientist
 - 🌱 I’m currently learning  D.E and D.A
 - 💞️ I’m looking to collaborate on ...
