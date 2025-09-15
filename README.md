@@ -82,4 +82,8 @@ Pronouns: He/Him.
   * [Profile 1](https://www.facebook.com/thang.hung.58760/)  
   * [Profile 2](https://www.facebook.com/hung.thang.385092)  
 - Gmail: nlhungthang18@gmail.com  
-- LinkedIn: [Hùng Thắng Nguyễn Lê](https://www.linkedin.com/in/h%C3%B9ng-th%C4%83ng-nguy%E1%BB%85n-l%C3%AA-9bb786352)
+- LinkedIn: [Hùng Thắng Nguyễn Lê](https://www.linkedin.com/in/h%C3%B9ng-th%C4%83ng-nguy%E1%BB%85n-l%C3%AA-9bb786352)  
+- Discord: **hungthang_nguyenle8**  
+- Instagram: [takamahari](https://www.instagram.com/takamahari)  
+- TikTok: [@thangnguyen_81976](https://www.tiktok.com/@thangnguyen_81976)  
+- Phone: **0828904478**
