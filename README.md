@@ -1,41 +1,58 @@
 # Hung Thang
 
-## About me
-Hi, I’m @Hungthang.  
-I’m interested in becoming a Data Scientist.  
+## About Me
+Hello, I’m @Hungthang.  
+I’m interested in Data Science.  
 I’m currently learning Data Engineering (D.E) and Data Analytics (D.A).  
 Pronouns: He/Him.
 
-## Interests
-- Machine Learning, Time Series, and Practical Data Science
-- Data Engineering pipelines and best practices
-- Analytics for business decision-making
+---
 
-## Currently learning
-- Python for data (pandas, NumPy, scikit-learn)
-- SQL and database fundamentals
-- ETL/ELT and basic orchestration
-- Exploratory Data Analysis and visualization
+## Education
+- Nguyen Tat Thanh University (NTTU) — Major: Data Science
+
+---
+
+## Interests
+- Machine Learning, Time Series, and Applied Data Science  
+- Data Engineering pipelines and best practices  
+- Data Analytics for business decision-making
+
+---
+
+## Currently Learning
+- Python for data (pandas, NumPy, scikit-learn)  
+- SQL and database fundamentals  
+- ETL/ELT and basic orchestration  
+- Exploratory Data Analysis and visualization  
+- R for statistical analysis and time series modeling  
+
+---
 
 ## Skills (in progress)
-- Languages: Python, SQL
-- Data: pandas, NumPy, matplotlib/plotly
-- ML: scikit-learn (basics), model evaluation
-- DE basics: CSV/Parquet, simple ETL, Git/GitHub
+- Languages: Python, R, SQL, Java, C/C++  
+- Web: HTML, CSS (basics)  
+- Data: pandas, NumPy, matplotlib/plotly  
+- ML: scikit-learn (basics), model evaluation  
+- DE basics: CSV/Parquet, simple ETL, Git/GitHub  
 
-## Featured projects
-- [Project 1 – Data Cleaning & EDA](): describe dataset, questions, key findings, and link to notebook
-- [Project 2 – Simple ML Pipeline](): problem, features, metrics (e.g., accuracy/MAE), how to run
-- [Project 3 – DE Mini Pipeline](): small ETL (extract → transform → load), folder structure, and scheduling idea
+---
 
-> Tip: Mỗi repo dự án nên có README riêng gồm: mục tiêu, dữ liệu, cách chạy, kết quả chính, và hướng phát triển.
+## Featured Projects
+*(Coming soon...)*
 
-## How I work
-- Clear, reproducible notebooks
-- Version control with meaningful commit messages
-- Documented assumptions and limitations
+---
+
+## How I Work
+- Clear, reproducible notebooks  
+- Version control with meaningful commit messages  
+- Documented assumptions and limitations  
+
+---
 
 ## Contact
-- Facebook: https://www.facebook.com/thang.hung.58760/  
-  or: https://www.facebook.com/profile.php?id=100089924391587
-- Gmail: nlhungthang18@gmail.com
+- Facebook:  
+  * [Profile 1](https://www.facebook.com/thang.hung.58760/)  
+  * [Profile 2](https://www.facebook.com/hung.thang.385092)  
+- Gmail: nlhungthang18@gmail.com  
+- LinkedIn: [Hùng Thắng Nguyễn Lê](https://www.linkedin.com/in/h%C3%B9ng-th%C4%83ng-nguy%E1%BB%85n-l%C3%AA-9bb786352)
