@@ -1,7 +1,12 @@
-<div align="center";style="font-size: 160px; color: cyan;">
-                                                         Nguyễn Lê Hùng Thắng
-</div>
-
+<h1 align="center" style="
+    font-size: 56px;
+    font-weight: bold;
+    background: linear-gradient(to right, #00c6ff, #0072ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+">
+    Nguyễn Lê Hùng Thắng
+</h1>
 
 <div align="center">
 
