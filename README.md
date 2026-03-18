@@ -200,7 +200,7 @@ Financial analysis project for ACB Bank, featuring detailed financial reports an
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [Hùng Thắng Nguyễn Lê](https://www.linkedin.com/in/hùng-thắng-nguyễn-lê-9bb786352) |
+| 💼 LinkedIn | [Hùng Thắng Nguyễn Lê](https://www.linkedin.com/in/thắng-nguyễn-lê-hùng-9bb786352/?locale=en) |
 | 🐙 GitHub | [Hungthang1234](https://github.com/Hungthang1234) |
 | 📧 Gmail | nlhungthang18@gmail.com |
 | 💬 Discord | hungthang_nguyenle8 |
