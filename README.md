@@ -6,7 +6,7 @@
 
 *Transforming data into actionable insights*
 
-[🌐 Portfolio](#featured-projects) • [💼 LinkedIn](https://www.linkedin.com/in/hùng-thắng-nguyễn-lê-9bb786352) • [📧 Email](mailto:nlhungthang18@gmail.com)
+[🌐 Portfolio](#featured-projects) • [💼 LinkedIn](https://www.linkedin.com/in/thắng-nguyễn-lê-hùng-9bb786352/?locale=en) • [📧 Email](mailto:nlhungthang18@gmail.com)
 
 </div>
 
