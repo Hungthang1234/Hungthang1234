@@ -1,4 +1,4 @@
-# 👋 Hùng Thắng Nguyễn Lê
+# 👋 Nguyễn Lê Hùng Thắng
 
 <div align="center">
 
