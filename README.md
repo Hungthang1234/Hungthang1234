@@ -1,5 +1,7 @@
-<div align="center">
-#                                                          Nguyễn Lê Hùng Thắng
+<div align="center",style="font-size: 24px; color: cyan;">
+                                                         Nguyễn Lê Hùng Thắng
+</div>
+
 
 <div align="center">
 
