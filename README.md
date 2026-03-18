@@ -1,4 +1,4 @@
-<div align="center",style="font-size: 60px; color: cyan;">
+<div align="center";style="font-size: 60px; color: cyan;">
                                                          Nguyễn Lê Hùng Thắng
 </div>
 
