@@ -1,4 +1,4 @@
-# 👋 Nguyễn Lê Hùng Thắng
+# Nguyễn Lê Hùng Thắng
 
 <div align="center">
 
@@ -116,14 +116,72 @@ Hello! I'm **Hungthang**, a passionate **Data Science** student at Nguyen Tat Th
 
 ## 💼 Featured Projects
 
-*(🚀 Coming Soon...)*
+### 1. 🐦 Twitter Clone - Social Media Application
+**Multi-platform Social Media with Real-time Features**
 
-I'm working on exciting projects in:
-- 📊 **Data Analytics**: Real-world business intelligence solutions
-- 🤖 **Machine Learning**: Predictive modeling and classification tasks
-- 🔄 **Data Engineering**: ETL pipelines and data architecture
+A comprehensive Twitter/X clone built with **Flutter** and **Firebase**, demonstrating professional mobile app development with real-time data synchronization.
 
-*Stay tuned for more updates!*
+- 👥 User authentication, profiles, and follow system
+- 📝 Tweet creation, likes, retweets, and comments
+- 💬 Real-time feed updates with Cloud Firestore
+- 🎨 Dark/Light theme support with responsive UI
+- 📱 Cross-platform support (iOS, Android, Web, Windows, macOS, Linux)
+
+**Tech Stack**: Flutter, Dart, Firebase, Cloud Firestore, Provider
+
+[📂 Repository](https://github.com/Hungthang1234/Social-Media-ProJect-Twitter-Clone) • [⭐ Star this project](#)
+
+---
+
+### 2. 📊 DataRnAPP - Company Data Manager
+**Full-Featured Data Management & Cleaning Platform**
+
+A complete data management solution with multiple interfaces for data cleaning, analysis, and export. Features 3 versions: Streamlit (web), Tkinter (desktop), and PySimpleGUI (executable).
+
+- 📤 Import CSV/Excel files
+- 🧹 Advanced data cleaning pipeline with normalization
+- 🔍 Search, filter, and analytics
+- 💾 SQLite storage and snapshot management
+- 📊 Export to CSV/Excel with styled formatting
+- 🎯 Compiled to `.exe` executable
+
+**Tech Stack**: Python, Pandas, Streamlit, Tkinter, SQLite, Plotly
+
+[📂 Repository](https://github.com/Hungthang1234/DataRnAPP) • [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)](https://github.com/Hungthang1234/DataRnAPP)
+
+---
+
+### 3. 🏠 Real Estate Price Prediction - Thesis Project
+**Machine Learning Model for Housing Price Forecasting**
+
+Capstone project predicting real estate prices using multiple ML models. Includes comprehensive data analysis, model training, and evaluation.
+
+- 📈 Data exploration and feature engineering
+- 🤖 Multiple ML models (Regression, XGBoost, etc.)
+- 📊 Google Colab & Jupyter notebooks
+- 📝 Full documentation and analysis reports
+- 🔄 GitHub Actions CI/CD integration
+
+**Tech Stack**: Python, Pandas, Scikit-learn, Jupyter, Google Colab
+
+[📂 Repository](https://github.com/Hungthang1234/DO-AN-TOT-NGHIEP) • [![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://github.com/Hungthang1234/DO-AN-TOT-NGHIEP)
+
+---
+
+### 4. 🏦 ACB Bank Financial Analysis
+**Comprehensive Banking Analytics with Power BI Dashboard**
+
+Financial analysis project for ACB Bank, featuring detailed financial reports and interactive Power BI dashboards for business intelligence.
+
+- 📊 Financial report generation (PPT, Word)
+- 📈 Power BI dashboards for visualization
+- 💰 Bank financial metrics analysis
+- 💹 Market data tracking and analysis
+- 📉 Historical price data processing
+
+**Tech Stack**: Power BI, Excel, Data Analysis
+
+[📂 Repository](https://github.com/Hungthang1234/ACB-Bank-DataAnalyst) • [![Dashboard](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)](https://github.com/Hungthang1234/ACB-Bank-DataAnalyst)
 
 ---
 
