@@ -173,6 +173,8 @@ He / Him
 | 2️⃣ | Python for Beginners | TEK4.vn, W3Schools | ✅ |
 | 3️⃣ | C/C++ Basics | TEK4.vn, W3Schools | ✅ |
 | 4️⃣ | Google Data Analytics | Google Free Course | 🔄 |
+| 5️⃣ | **Data Analysis with Python** | **IBM via Coursera** | ✅ [View Certificate](certificates/Coursera%200QO9QUQA96N2.pdf) |
+| 6️⃣ | **Prepare Data for Exploration** | **Google via Coursera** | ✅ [View Certificate](certificates/Coursera%207GVL2EAUAH3R.pdf) |
 
 ---
 
@@ -182,6 +184,10 @@ He / Him
   - Computer Network System Deployment Contest
   - Faculty of Information Technology, NTTU
   - April 2024
+
+- 🎓 **Coursera Certifications**
+  - Data Analysis with Python (IBM) - 2026
+  - Prepare Data for Exploration (Google) - 2026
 
 ---
 
