@@ -102,6 +102,7 @@ He / Him
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F7DDE?style=for-the-badge&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 </div>
 
@@ -112,6 +113,8 @@ He / Him
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL/ELT-008000?style=for-the-badge&logoColor=white)
 
 </div>
@@ -181,7 +184,19 @@ He / Him
 
 ---
 
-### 🎯 **Certificate Gallery**
+###   **Certifications Badges**
+
+<div align="center">
+
+![Google Data Analytics](https://img.shields.io/badge/-Google%20Data%20Analytics%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![IBM Data Analysis](https://img.shields.io/badge/-IBM%20Data%20Analysis%20with%20Python-054687?style=for-the-badge&logo=ibm&logoColor=white)
+![Coursera Verified](https://img.shields.io/badge/-Coursera%20Verified-0066CC?style=for-the-badge&logo=coursera&logoColor=white)
+
+</div>
+
+---
+
+###  🎯 **Certificate Gallery**
 
 <div align="center">
 
@@ -198,9 +213,9 @@ He / Him
 ✅ April 2026
 <br/><br/>
 
-[![Google Data Analytics Certificate](https://raw.githubusercontent.com/Hungthang1234/CEF/main/certificates/images/Screenshot%202026-04-08%20222848.png)](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%20D4KS36VEMTGU.pdf)
+[![Google Data Analytics Certificate](certificates/images/Screenshot%202026-04-08%20222848.png)](certificates/Coursera%20D4KS36VEMTGU.pdf)
 
-[📥 View PDF](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%20D4KS36VEMTGU.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/D4KS36VEMTGU)
+[📥 View PDF](certificates/Coursera%20D4KS36VEMTGU.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/D4KS36VEMTGU)
 
 </td>
 <td align="center" width="50%">
@@ -212,9 +227,9 @@ He / Him
 ✅ April 2026
 <br/><br/>
 
-[![IBM Certificate](https://raw.githubusercontent.com/Hungthang1234/CEF/main/certificates/images/ibm-certificate.png)](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%200QO9QUQA96N2.pdf)
+[![IBM Certificate](certificates/images/ibm-certificate.png)](certificates/Coursera%200QO9QUQA96N2.pdf)
 
-[📥 View PDF](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%200QO9QUQA96N2.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/0QO9QUQA96N2)
+[📥 View PDF](certificates/Coursera%200QO9QUQA96N2.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/0QO9QUQA96N2)
 
 </td>
 </tr>
@@ -228,9 +243,9 @@ He / Him
 ✅ April 2026
 <br/><br/>
 
-[![Google Certificate](https://raw.githubusercontent.com/Hungthang1234/CEF/main/certificates/images/google-certificate.png)](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%207GVL2EAUAH3R.pdf)
+[![Google Certificate](certificates/images/google-certificate.png)](certificates/Coursera%207GVL2EAUAH3R.pdf)
 
-[📥 View PDF](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%207GVL2EAUAH3R.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/7GVL2EAUAH3R)
+[📥 View PDF](certificates/Coursera%207GVL2EAUAH3R.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/7GVL2EAUAH3R)
 
 </td>
 <td align="center" width="50%">
@@ -242,9 +257,9 @@ He / Him
 ✅ April 2026
 <br/><br/>
 
-[![Google Certificate](https://raw.githubusercontent.com/Hungthang1234/CEF/main/certificates/images/Screenshot%202026-04-08%20222856.png)](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%20QVE6RSQYKFX8.pdf)
+[![Google Certificate](certificates/images/Screenshot%202026-04-08%20222856.png)](certificates/Coursera%20QVE6RSQYKFX8.pdf)
 
-[📥 View PDF](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%20QVE6RSQYKFX8.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/QVE6RSQYKFX8)
+[📥 View PDF](certificates/Coursera%20QVE6RSQYKFX8.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/QVE6RSQYKFX8)
 
 </td>
 </tr>
@@ -258,9 +273,9 @@ He / Him
 ✅ April 2026
 <br/><br/>
 
-[![Google Certificate](https://raw.githubusercontent.com/Hungthang1234/CEF/main/certificates/images/Screenshot%202026-04-08%20222904.png)](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%20CZT3KSAS8N6U.pdf)
+[![Google Certificate](certificates/images/Screenshot%202026-04-08%20222904.png)](certificates/Coursera%20CZT3KSAS8N6U.pdf)
 
-[📥 View PDF](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%20CZT3KSAS8N6U.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/CZT3KSAS8N6U)
+[📥 View PDF](certificates/Coursera%20CZT3KSAS8N6U.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/CZT3KSAS8N6U)
 
 </td>
 <td align="center" width="50%">
@@ -272,9 +287,9 @@ He / Him
 ✅ April 2026
 <br/><br/>
 
-[![Google Certificate](https://raw.githubusercontent.com/Hungthang1234/CEF/main/certificates/images/Screenshot%202026-04-08%20222914.png)](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%20B5NPM0Z6RTQ6.pdf)
+[![Google Certificate](certificates/images/Screenshot%202026-04-08%20222914.png)](certificates/Coursera%20B5NPM0Z6RTQ6.pdf)
 
-[📥 View PDF](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%20B5NPM0Z6RTQ6.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/B5NPM0Z6RTQ6)
+[📥 View PDF](certificates/Coursera%20B5NPM0Z6RTQ6.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/B5NPM0Z6RTQ6)
 
 </td>
 </tr>
