@@ -178,6 +178,49 @@ He / Him
 
 ---
 
+### 🎯 **Certificate Gallery**
+
+<div align="center">
+
+#### 🏆 **Professional Certifications**
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**📜 Data Analysis with Python**
+<br/>
+**IBM | Coursera**
+<br/>
+✅ April 2026
+<br/><br/>
+
+[![IBM Certificate](certificates/images/Screenshot%202026-04-08%20160803.png)](certificates/Coursera%200QO9QUQA96N2.pdf)
+
+[📥 View PDF](certificates/Coursera%200QO9QUQA96N2.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/7GVL2EAUAH3R)
+
+</td>
+<td align="center" width="50%">
+
+**📜 Prepare Data for Exploration**
+<br/>
+**Google | Coursera**
+<br/>
+✅ April 2026
+<br/><br/>
+
+[![Google Certificate](certificates/images/Screenshot%202026-04-08%20160745.png)](certificates/Coursera%207GVL2EAUAH3R.pdf)
+
+[📥 View PDF](certificates/Coursera%207GVL2EAUAH3R.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/0QO9QUQA96N2)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🏆 Achievements
 
 - 🥇 **Certificate of Merit (BEST)**
