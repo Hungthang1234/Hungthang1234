@@ -195,9 +195,9 @@ He / Him
 ✅ April 2026
 <br/><br/>
 
-[![IBM Certificate](certificates/images/ibm-certificate.png)](certificates/Coursera%200QO9QUQA96N2.pdf)
+[![IBM Certificate](https://raw.githubusercontent.com/Hungthang1234/CEF/main/certificates/images/ibm-certificate.png)](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%200QO9QUQA96N2.pdf)
 
-[📥 View PDF](certificates/Coursera%200QO9QUQA96N2.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/7GVL2EAUAH3R)
+[📥 View PDF](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%200QO9QUQA96N2.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/7GVL2EAUAH3R)
 
 </td>
 <td align="center" width="50%">
@@ -209,9 +209,9 @@ He / Him
 ✅ April 2026
 <br/><br/>
 
-[![Google Certificate](certificates/images/google-certificate.png)](certificates/Coursera%207GVL2EAUAH3R.pdf)
+[![Google Certificate](https://raw.githubusercontent.com/Hungthang1234/CEF/main/certificates/images/google-certificate.png)](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%207GVL2EAUAH3R.pdf)
 
-[📥 View PDF](certificates/Coursera%207GVL2EAUAH3R.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/0QO9QUQA96N2)
+[📥 View PDF](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%207GVL2EAUAH3R.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/0QO9QUQA96N2)
 
 </td>
 </tr>
