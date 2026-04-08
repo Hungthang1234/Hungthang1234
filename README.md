@@ -144,12 +144,12 @@ He / Him
 <tr>
 <td align="center"><b>📊 EDA & Viz</b></td>
 <td align="center"><b>📈 R & Statistics</b></td>
-<td align="center"><b>📖 Google Analytics</b></td>
+<td align="center"><b>🤖 Machine Learning</b></td>
 </tr>
 <tr>
 <td>Advanced Visualization<br/>Data Storytelling</td>
 <td>Time Series<br/>Statistical Inference</td>
-<td>Certification In Progress<br/>🔄 Active Learning</td>
+<td>Supervised Learning<br/>Model Optimization</td>
 </tr>
 </table>
 
@@ -172,9 +172,12 @@ He / Him
 | 1️⃣ | Java Fundamentals | TEK4.vn, W3Schools | ✅ |
 | 2️⃣ | Python for Beginners | TEK4.vn, W3Schools | ✅ |
 | 3️⃣ | C/C++ Basics | TEK4.vn, W3Schools | ✅ |
-| 4️⃣ | Google Data Analytics | Google Free Course | 🔄 |
+| 4️⃣ | **Google Data Analytics Professional Certificate** | **Google via Coursera** | ✅ [View Certificate](certificates/Coursera%20D4KS36VEMTGU.pdf) |
 | 5️⃣ | **Data Analysis with Python** | **IBM via Coursera** | ✅ [View Certificate](certificates/Coursera%200QO9QUQA96N2.pdf) |
 | 6️⃣ | **Prepare Data for Exploration** | **Google via Coursera** | ✅ [View Certificate](certificates/Coursera%207GVL2EAUAH3R.pdf) |
+| 7️⃣ | **Process Data from Dirty to Clean** | **Google via Coursera** | ✅ [View Certificate](certificates/Coursera%20QVE6RSQYKFX8.pdf) |
+| 8️⃣ | **Analyze Data to Answer Questions** | **Google via Coursera** | ✅ [View Certificate](certificates/Coursera%20CZT3KSAS8N6U.pdf) |
+| 9️⃣ | **Share Data Through the Art of Visualization** | **Google via Coursera** | ✅ [View Certificate](certificates/Coursera%20B5NPM0Z6RTQ6.pdf) |
 
 ---
 
@@ -188,6 +191,20 @@ He / Him
 <tr>
 <td align="center" width="50%">
 
+**📜 Google Data Analytics Professional Certificate**
+<br/>
+**Google | Coursera (9 Courses)**
+<br/>
+✅ April 2026
+<br/><br/>
+
+[![Google Data Analytics Certificate](https://raw.githubusercontent.com/Hungthang1234/CEF/main/certificates/images/Screenshot%202026-04-08%20222848.png)](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%20D4KS36VEMTGU.pdf)
+
+[📥 View PDF](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%20D4KS36VEMTGU.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/D4KS36VEMTGU)
+
+</td>
+<td align="center" width="50%">
+
 **📜 Data Analysis with Python**
 <br/>
 **IBM | Coursera**
@@ -197,9 +214,11 @@ He / Him
 
 [![IBM Certificate](https://raw.githubusercontent.com/Hungthang1234/CEF/main/certificates/images/ibm-certificate.png)](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%200QO9QUQA96N2.pdf)
 
-[📥 View PDF](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%200QO9QUQA96N2.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/7GVL2EAUAH3R)
+[📥 View PDF](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%200QO9QUQA96N2.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/0QO9QUQA96N2)
 
 </td>
+</tr>
+<tr>
 <td align="center" width="50%">
 
 **📜 Prepare Data for Exploration**
@@ -211,7 +230,51 @@ He / Him
 
 [![Google Certificate](https://raw.githubusercontent.com/Hungthang1234/CEF/main/certificates/images/google-certificate.png)](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%207GVL2EAUAH3R.pdf)
 
-[📥 View PDF](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%207GVL2EAUAH3R.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/0QO9QUQA96N2)
+[📥 View PDF](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%207GVL2EAUAH3R.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/7GVL2EAUAH3R)
+
+</td>
+<td align="center" width="50%">
+
+**📜 Process Data from Dirty to Clean**
+<br/>
+**Google | Coursera**
+<br/>
+✅ April 2026
+<br/><br/>
+
+[![Google Certificate](https://raw.githubusercontent.com/Hungthang1234/CEF/main/certificates/images/Screenshot%202026-04-08%20222856.png)](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%20QVE6RSQYKFX8.pdf)
+
+[📥 View PDF](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%20QVE6RSQYKFX8.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/QVE6RSQYKFX8)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**📜 Analyze Data to Answer Questions**
+<br/>
+**Google | Coursera**
+<br/>
+✅ April 2026
+<br/><br/>
+
+[![Google Certificate](https://raw.githubusercontent.com/Hungthang1234/CEF/main/certificates/images/Screenshot%202026-04-08%20222904.png)](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%20CZT3KSAS8N6U.pdf)
+
+[📥 View PDF](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%20CZT3KSAS8N6U.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/CZT3KSAS8N6U)
+
+</td>
+<td align="center" width="50%">
+
+**📜 Share Data Through the Art of Visualization**
+<br/>
+**Google | Coursera**
+<br/>
+✅ April 2026
+<br/><br/>
+
+[![Google Certificate](https://raw.githubusercontent.com/Hungthang1234/CEF/main/certificates/images/Screenshot%202026-04-08%20222914.png)](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%20B5NPM0Z6RTQ6.pdf)
+
+[📥 View PDF](https://github.com/Hungthang1234/CEF/raw/main/certificates/Coursera%20B5NPM0Z6RTQ6.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/B5NPM0Z6RTQ6)
 
 </td>
 </tr>
@@ -229,8 +292,12 @@ He / Him
   - April 2024
 
 - 🎓 **Coursera Certifications**
+  - Google Data Analytics Professional Certificate (9 Courses) - 2026
   - Data Analysis with Python (IBM) - 2026
   - Prepare Data for Exploration (Google) - 2026
+  - Process Data from Dirty to Clean (Google) - 2026
+  - Analyze Data to Answer Questions (Google) - 2026
+  - Share Data Through the Art of Visualization (Google) - 2026
 
 ---
 
