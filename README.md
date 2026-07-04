@@ -222,19 +222,16 @@ He / Him
 </td>
 <td align="center" width="50%">
 
-**📜 Data Analysis with Python**
+**📜 Google Business Intelligence Certificate**
 <br/>
-**IBM | Coursera**
+**Google | Coursera (4 Courses)**
 <br/>
 ✅ April 2026
 <br/><br/>
 
-[![IBM Certificate](certificates/images/ibm-certificate.png)](certificates/Coursera%200QO9QUQA96N2.pdf)
+[![ Google Business Intelligence Certificate](certificates/images/ggBIcerf.png)](certificates/Coursera%20FZMWGOS5IS5Y.pdf) 
 
-[📥 View PDF](certificates/Coursera%200QO9QUQA96N2.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/0QO9QUQA96N2)
-
-</td>
-</tr>
+[📥 View PDF](certificates/Coursera%20FZMWGOS5IS5Y.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/specialization/FZMWGOS5IS5Y)
 <tr>
 <td align="center" width="50%">
 
@@ -292,6 +289,36 @@ He / Him
 [![Google Certificate](certificates/images/Screenshot%202026-04-08%20222914.png)](certificates/Coursera%20B5NPM0Z6RTQ6.pdf)
 
 [📥 View PDF](certificates/Coursera%20B5NPM0Z6RTQ6.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/B5NPM0Z6RTQ6)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**📜 Data Analysis with Python**
+<br/>
+**IBM | Coursera**
+<br/>
+✅ April 2026
+<br/><br/>
+
+[![IBM Certificate](certificates/images/ibm-certificate.png)](certificates/Coursera%200QO9QUQA96N2.pdf)
+
+[📥 View PDF](certificates/Coursera%200QO9QUQA96N2.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/0QO9QUQA96N2)
+
+</td>
+<td align="center" width="50%">
+
+**📜 The Data Science Profession – Student View**
+<br/>
+**University of London | Coursera**
+<br/>
+✅ April 2026
+<br/><br/>
+
+[![University of London Certificate](certificates/images/uolcerf.png)](certificates/Coursera%20JJCQY2CXAF5R.pdf)
+
+[📥 View PDF](certificates/certificates/Coursera%20JJCQY2CXAF5R.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/JJCQY2CXAF5R)
 
 </td>
 </tr>
