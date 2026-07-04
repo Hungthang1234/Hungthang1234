@@ -181,6 +181,8 @@ He / Him
 | 7️⃣ | **Process Data from Dirty to Clean** | **Google via Coursera** | ✅ [View Certificate](certificates/Coursera%20QVE6RSQYKFX8.pdf) |
 | 8️⃣ | **Analyze Data to Answer Questions** | **Google via Coursera** | ✅ [View Certificate](certificates/Coursera%20CZT3KSAS8N6U.pdf) |
 | 9️⃣ | **Share Data Through the Art of Visualization** | **Google via Coursera** | ✅ [View Certificate](certificates/Coursera%20B5NPM0Z6RTQ6.pdf) |
+| 🔟 | **The Data Science Profession** | **University of London via Coursera** | ✅ [View Certificate](certificates/Coursera_JJCQY2CXAF5R.pdf) |
+| 1️⃣1️⃣ | **Google Business Intelligence Professional Certificate** | **Google via Coursera** | ✅ [View Certificate](certificates/Coursera_FZMWGOS5IS5Y.pdf) |
 
 ---
 
