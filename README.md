@@ -256,7 +256,7 @@ He / Him
 ✅ April 2026
 <br/><br/>
 
-[![Google Certificate](certificates/images/ibm-certificate.png)](certificates/Coursera%200QO9QUQA96N2.pdf)
+[![Google Certificate](certificates/images/Screenshot%202026-04-08%20222848.png)](certificates/Coursera%200QO9QUQA96N2.pdf)
 
 [📥 View PDF](certificates/Coursera%20QVE6RSQYKFX8.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/QVE6RSQYKFX8)
 
@@ -286,7 +286,7 @@ He / Him
 ✅ April 2026
 <br/><br/>
 
-[![Google Certificate](certificates/images/Screenshot%202026-04-08%20222914.png)](certificates/Coursera%20B5NPM0Z6RTQ6.pdf)
+[![Google Certificate](certificates/images/share.png)](Coursera%20B5NPM0Z6RTQ6.pdf)
 
 [📥 View PDF](certificates/Coursera%20B5NPM0Z6RTQ6.pdf) • [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/B5NPM0Z6RTQ6)
 
